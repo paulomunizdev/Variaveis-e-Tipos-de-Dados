@@ -23,5 +23,5 @@ Exemplos de Variáveis e Tipos de Dados em C++
 Certifique-se de ter um compilador C++ instalado no seu sistema. Compile e execute os exemplos individualmente.
 
 ```bash
-g++ script.cpp -o exemplo
+g++ script.cpp -o script
 ./script
