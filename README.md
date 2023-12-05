@@ -1,8 +1,6 @@
 Repositório contendo exemplos simples em C++ para compreensão de variáveis, tipos de dados fundamentais, modificadores, derivados, compostos e enumerados.
 Exemplos de Variáveis e Tipos de Dados em C++
 
-Este repositório contém exemplos simples em C++ que demonstram a declaração e uso de variáveis e tipos de dados fundamentais, modificadores, derivados, compostos e enumerados.
-
 ## Conteúdo
 
 1. **Tipos de Dados Fundamentais:**
